@@ -1,6 +1,6 @@
 # ML-projects
 
-#1. Rock or mine prediction:
+#1. Rock or mine prediction using linaer regression model
 
 
 
@@ -71,5 +71,38 @@
 
 
 #4. House prediction model using XGBregrssor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#5. Heart Disease prediction model using linear regression model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
